@@ -7,5 +7,6 @@ This project is about designing or creating the calculator app for some operatio
 # How To run it 
 Use git clone and paste the link 
 # Sample output 
-![Uploading image.png…]()
+![Screenshot from 2023-08-08 04-15-00](https://github.com/Floride125-art/calculator-app/assets/71024941/5cc5cdc3-14e6-432a-84b2-0709d6406d41)
+
 
